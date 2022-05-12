@@ -16,6 +16,7 @@ export default function Home() {
               <p>
                 I am a 22 year old developer learning new skills each day.
                 Went to school at Ogden-Weber Tech College for Software Technology.
+                I'm fluent in spanish.
               </p>
 
               <p>
